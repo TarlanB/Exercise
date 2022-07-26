@@ -34,6 +34,7 @@ public class AddingItemSteps {
             e.printStackTrace();
         }
 
+
     }
 
     @When("user chooses the last auto-complete option from the dropdown menu suggestions")
