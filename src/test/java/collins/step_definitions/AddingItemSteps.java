@@ -35,6 +35,7 @@ public class AddingItemSteps {
         }
 
 
+
     }
 
     @When("user chooses the last auto-complete option from the dropdown menu suggestions")
